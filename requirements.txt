@@ -1,0 +1,8 @@
+# Core Dependencies for System Activity & Exam Monitor
+Pillow>=10.0.0
+pyperclip>=1.8.2
+pynput>=1.7.6
+
+# Optional Audio Telemetry Dependencies (Only needed if ENABLE_AUDIO = True)
+sounddevice>=0.4.6
+scipy>=1.11.0
